@@ -995,7 +995,8 @@ We'll dive deeper into:
 
 - **Email:** ekrem.cetinkaya@yildiz.edu.tr
 - **Office Hours:** Tuesday 14:00-16:00 - Room F-B21
-- **Course Repository:** https://github.com/ekremcet/yzm2021-principles-of-software-engineering
+- **Book a slot before coming to the office hours:** [Booking Link](https://calendar.app.google/aBKvBqNAqG12oD2B9)
+- **Course Repository:** [GitHub Link](https://github.com/ekremcet/yzm2021-principles-of-software-engineering)
 
 ## Next Class
 
