@@ -135,9 +135,9 @@ style: |
 
 ## Assessment
 
-- **Project**: 40%
+- **Project**: 35%
 - **Midterm**: 25%
-- **Final Exam**: 35%
+- **Final Exam**: 40%
 
 ## Assessment Approach
 
