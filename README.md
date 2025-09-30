@@ -5,7 +5,7 @@
 * Dinçer Efe Bolut
 * Arın Akbaş
 
-## Team 2
+## Team 2:
 ### Members
 * Oğuzhan Çelik
 * Yunus Emre Yılmaz
@@ -15,7 +15,7 @@
 * Berat Sarı
 * Ali Berkay Erdoğan
 
-## Team 4
+## Team 4
 ### Members
 * Ahmet Doruk Güngör
 * Yasin Buğra Tolu
