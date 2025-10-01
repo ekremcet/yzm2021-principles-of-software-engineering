@@ -1,3 +1,0 @@
-# Week 1 Recordings:
-
-https://stdyildizedu-my.sharepoint.com/:v:/g/personal/ekrem_cetinkaya_yildiz_edu_tr/EV29hEAIt59Cjd83iTQH-wABorWz5KlkDb0JI69CksXaJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hmMhuR
